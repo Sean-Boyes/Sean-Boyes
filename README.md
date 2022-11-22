@@ -8,7 +8,7 @@
 
 <br />
 
-Hi,I'm Sean Boyes, an Engineering Student at Simon Fraser University hoping to focus on systems design and robotic. Apart from that I enjoy working with my hands and Problem Solving.
+Hi, I'm Sean Boyes, an Engineering Student at Simon Fraser University focusing on systems design and robotics. Apart from that I enjoy working with my hands and Problem Solving.
 
 - 🇨🇦🇺🇸 Dual Citizen for the US and Canada
 - 💬 Ask me about anything , Would love to answer them.
