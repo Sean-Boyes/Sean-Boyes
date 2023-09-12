@@ -1,7 +1,8 @@
 ### Hi there 👋 [Under Construction]
 I am currently an Engineering Student at Simon Fraser University  
 My main programming languages at the moment are C and C++  
-I have experence in Python and Matlab and am currently learning Fortran, Cobol, and Rust  
+I have experence in Python and Matlab  
+I am currently learning Fortran, Cobol, and Rust  
 <!--
 **Sean-Boyes/Sean-Boyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
