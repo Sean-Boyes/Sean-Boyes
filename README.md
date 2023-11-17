@@ -1,4 +1,4 @@
-### Hi there 👋 [Under Construction]
+### Hi there 👋
 I am currently an Engineering Student at Simon Fraser University  
 My main programming languages at the moment are C and C++  
 I have experence in Python and Matlab  
