@@ -1,8 +1,9 @@
 ### Hi there 👋
-I am currently an Engineering Student at Simon Fraser University  
-My main programming languages at the moment are C and C++  
-I have experence in Python and Matlab  
-I am currently learning ARM/THUMB Assembly
+I'm an Engineering Student studying at Simon Fraser University, working in embedded electonics and pcb design.
+I enjoy solving problems and learning from them, as well as optmizing code/designs.
+
+My main interests are low level and pcb design.
+My current goals that I am working towards are creating a motherboard for a mobile device using the RK3588 SOC, and designing an affordable, opensource pick-and-place machine with a heated bed.
 <!--
 **Sean-Boyes/Sean-Boyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
